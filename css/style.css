@@ -39,10 +39,8 @@ body {
 	width: 86px;
 }
 .bottom .one {
-	margin-left: 50px;
 }
 .bottom .two {
-	margin-right: 50px;
 }
 .bottom .two img{
 	margin-left: -10px;
@@ -60,5 +58,9 @@ body {
 	background: #009e96;
 }
 .bottom p {
-	font-size: 20px;
+	margin-top: 18px;
+	font-size: 18px;
+}
+.bottom .one p{
+	margin-top: 12px;
 }
